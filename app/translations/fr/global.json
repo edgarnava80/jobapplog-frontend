@@ -1,0 +1,8 @@
+{
+    "header": {
+        "title": "Gestionnaire des demandes d'emploi",
+        "home": "Accueil",
+        "view": "Vue les demandes",
+        "create": "Nouvelle demnade"
+    }
+}

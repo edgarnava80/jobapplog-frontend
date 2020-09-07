@@ -1,0 +1,45 @@
+{
+    "header": {
+        "title": "Gestor de Aplicaciones Laborales",
+        "home": "Inicio",
+        "view": "Ver Aplicaciones",
+        "create": "Crear nueva"
+    },
+    "homePage": {
+        "page": "Inicio",
+        "title": "Bienvenido al sistema de seguimiento de aplicaciones laborales!",
+        "date": "es"
+    },
+    "viewAllPage": {
+        "page": "Aplicaciones",
+        "title": "Aplicaciones",
+        "button": "Ver Aplicación",
+        "date": "es"
+    },
+    "createPage": {
+        "page": "Crear nueva",
+        "title": "Crear Nueva Aplicación",
+        "button": "Crear",
+        "message": " : Aplicación creada!"
+    },
+    "editPage": {
+        "page": "Editar",
+        "title": "Editar Aplicación",
+        "buttonEdit": "Guardar cambios",
+        "messageEdit": " : Cambios guardados. ",
+        "buttonDelete": "Borrar aplicación",
+        "messageDelete": " : Aplicación eliminada!",
+        "date": "es"
+    },
+    "fields": {
+        "company": "Empresa",
+        "position": "Puesto",
+        "date": "Fecha",
+        "source": "Fuente",
+        "contact": "Contacto",
+        "link": "Liga",
+        "description": "Descripción",
+        "notes": "Notas",
+        "note": "Nota"
+    }
+}

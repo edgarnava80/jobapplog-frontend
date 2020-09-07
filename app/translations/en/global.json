@@ -1,0 +1,45 @@
+{
+    "header": {
+        "title": "JobApplicationTracker",
+        "home": "Home",
+        "view": "View Applications",
+        "create": "Create Application"
+    },
+    "homePage": {
+        "page": "Home",
+        "title": "Welcome to the Job Applications Tracking system!",
+        "date": "en-US"
+    },
+    "viewAllPage": {
+        "page": "Applications",
+        "title": "Job Applications",
+        "button": "View application",
+        "date": "en-US"
+    },
+    "createPage": {
+        "page": "Create new",
+        "title": "Create New Application",
+        "button": "Create",
+        "message": " : Application created!"
+    },
+    "editPage": {
+        "page": "Application",
+        "title": "Application",
+        "buttonEdit": "Save changes",
+        "messageEdit": " application was edited.",
+        "buttonDelete": "Delete application",
+        "messageDelete": " application was deleted!",
+        "date": "en-US"
+    },
+    "fields": {
+        "company": "Company",
+        "position": "Position",
+        "date": "Date",
+        "source": "Source",
+        "contact": "Contact",
+        "link": "Link",
+        "description": "Description",
+        "notes": "Notes",
+        "note": "Note"
+    }
+}
