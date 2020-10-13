@@ -28,7 +28,7 @@ const config = {
           loader: 'babel-loader',
           options: {
             //presets: ['@babel/preset-react', ['@babel/preset-env', { targets: { node: '12' } }]]
-            presets: ['@babel/preset-react', '@babel/preset-env']
+            presets: [['@babel/preset-env', { useBuiltIns: 'usage', corejs: 3, targets: 'defaults' }], '@babel/preset-react']
           }
         }
       }
