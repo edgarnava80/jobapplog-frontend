@@ -1,0 +1,42 @@
+.with-border {
+    border: 1px solid red;
+}
+
+
+/* Smallest devices (543px and less) */
+
+@media (max-width: 543px) {
+    .display-6 {
+        font-size: 1rem;
+    }
+    .text-muted {
+        font-size: 0.8rem;
+    }
+    /*1rem = 16px*/
+}
+
+
+/* Small devices (544px to 768px) */
+
+@media (min-width: 544px) and (max-width: 768px) {
+    .display-6 {
+        font-size: 1.4rem;
+    }
+    .text-muted {
+        font-size: 1rem;
+    }
+    /*1rem = 16px*/
+}
+
+
+/* Medium devices (769px to 768px) */
+
+@media (min-width: 769px) and (max-width: 992px) {
+    .display-6 {
+        font-size: 2rem;
+    }
+    .text-muted {
+        font-size: 1.2rem;
+    }
+    /*1rem = 16px*/
+}

@@ -8,6 +8,18 @@
     "homePage": {
         "page": "Home",
         "title": "Welcome to the Job Applications Tracking system!",
+        "intro": "This application will help you to keep track of all your job aplications. You will have a record of every company, possition an date including the job description and any update, change or comments on each application.",
+        "username": "Username",
+        "login": "Log in",
+        "password": "Password",
+        "email": "Email",
+        "loginusr": "Enter your username",
+        "loginpass": "Enter your password",
+        "signup": "Sign up",
+        "signupmessage": "Not already a member? Sign up!",
+        "signupusr": "Pick a username",
+        "signupemail": "you@example.com",
+        "signuppass": "Create a password",
         "date": "en-US"
     },
     "viewAllPage": {

@@ -8,6 +8,18 @@
     "homePage": {
         "page": "Inicio",
         "title": "Bienvenido al sistema de seguimiento de aplicaciones laborales!",
+        "intro": "Este sistema te ayudará a llevar un registro de tus postulaciones laborales. Tendrás un registro de cada empresa, puesto y fecha, incluyendo la descripción de puesto y cualquier actualización, cambio o comentarios respecto a cada aplicación.",
+        "username": "Usuario",
+        "login": "Ingresar",
+        "password": "Contraseña",
+        "email": "Email",
+        "loginusr": "Ingresa tu usuario",
+        "loginpass": "Ingresa tu contraseña",
+        "signup": "Registrate",
+        "signupmessage": "Aun no tienes una cuenta? Crea una!",
+        "signupusr": "Escoge un nombre de ususario",
+        "signupemail": "tu@ejemplo.com",
+        "signuppass": "Establece una contraseña",
         "date": "es"
     },
     "viewAllPage": {
